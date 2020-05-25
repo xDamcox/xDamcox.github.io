@@ -9403,24 +9403,3 @@ img[src="/assets/616e078b351d0df460971441949c53a3.svg"] {
     -webkit-filter: brightness(25%);
     filter: brightness(25%);
 }
-
-/* DISCONTINUED NOTICE */
-.layers-3iHuyZ {
-	position: relative;
-	margin-top: 26px;
-	overflow: visible;
-}
-.layers-3iHuyZ:before {
-	content: none;
-	position: absolute;
-	top: -26px;
-	height: 20px;
-	left: 0;
-	right: 0;
-	padding: 3px 5px;
-	background-color: var(--main-color);
-	color: #fff;
-	font-weight: 500;
-	line-height: 20px;
-	text-align: center;
-}
